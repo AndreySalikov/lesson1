@@ -7,4 +7,4 @@ i=0
 while i<5:
 	a = get_answer(answers)
 	print(a.lower())
-	i+=1
+	i+=1 
