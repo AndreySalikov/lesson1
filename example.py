@@ -8,5 +8,5 @@ def get_vat(payment, percent=18):
     except (TypeError,ValueError):
         return 'Ошибка, проверьте воод'     
 
-result = get_vat(10000, 18)
+result = get_vat(1000, 18)
 print(result)
