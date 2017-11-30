@@ -16,35 +16,13 @@ def main():
     dp = updater.dispatcher
     dp.add_handler(CommandHandler("start", greet_user))
     dp.add_handler(CommandHandler("planet", planet, pass_args = True))
-    dp.add_handler(CommandHandler("wordcount", wordcount, pass_args = True))
+    dp.add_handler(CommandHandler("wordcount", wordcount))
     dp.add_handler(MessageHandler(Filters.text, talk_to_me))
 
 # Вызываем функцию - эта строчка собственно запускает бота
     updater.start_polling()
     updater.idle()
 
-# wordcount
-def wordcount(bot,update,args):
-    
-
-
-# planet
-def planet(bot, update, args):
-    today = '2017/11/25'
-    try:
-        planet = args[0].lower()
-        if planet in ['марс', 'mars']:
-            planet = ephem.Mars(today)
-            const = ephem.constellation(planet)[1]
-        elif planet in ['venus']:
-            planet = ephem.Venus(today)
-            const = ephem.constellation(planet)[1]
-        else:
-            const = "Not known"
-        
-        update.message.reply_text(const)
-    except:
-        update.message.reply_text("Укажи планету")
 
 # greet_user посылать сообщение обратно в Telegram
 def greet_user(bot, update):
@@ -57,5 +35,46 @@ def talk_to_me(bot, update):
     user_text = update.message.text 
     logging.info(user_text)
     update.message.reply_text(user_text)
+
+# planet
+def planet(bot, update, args):
+    today = '2017/11/25'
+    try:
+        planet = args[0].lower()
+        if planet in ['марс', 'mars']:
+            planet = ephem.Mars(today)
+            const = ephem.constellation(planet)[1]
+        elif planet in ['venus', "винера"]:
+            planet = ephem.Venus(today)
+            const = ephem.constellation(planet)[1]
+        else:
+            const = "Not known"
+        
+        update.message.reply_text(const)
+    except:
+        update.message.reply_text("Укажи планету")    
+
+# wordcount
+def wordcount(bot,update):
+    word = update.message.text
+    word_summ = len(word.split(' '))
+    word_summ = int(word_summ - 1)
+    logging.info(word_summ)
+
+    try:
+
+        if word_summ == 1:
+            update.message.reply_text(str(word_summ) + " cлово")
+        elif word_summ <= 4:
+            update.message.reply_text(str(word_summ) + " cлова")
+        elif word_summ >= 5:
+            update.message.reply_text(str(word_summ) + " cлов")
+        elif word_summ <= 0:
+            update.message.reply_text("Вы не ввели не одного")            
+    except:
+
+        update.message.reply_text("Введите фразу!")          
+
+
 
 main()

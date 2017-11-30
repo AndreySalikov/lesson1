@@ -1,0 +1,456 @@
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062EC588>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062D4470>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062D4588>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062D4668>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000000004B3C9E8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062EB5C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E4940>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E44E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E45F8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E41D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E43C8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E4080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E4588>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E4E48>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E4748>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E4B70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E4F98>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E4EB8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E4D30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E4198>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E45C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062E44A8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062D4860>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000062D47F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x0000000004B2BCC0>, 'Connect timed out. (connect timeout=5.0)')': /bot450246591:AAGV-8xA2dfU1Sft-KaV1u_yqu-sgxOOip4/getUpdates
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+root - INFO - Вызван /start
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: wordcount() got an unexpected keyword argument 'args'
+root - INFO - Вызван /start
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: wordcount() got an unexpected keyword argument 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: wordcount() got an unexpected keyword argument 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: wordcount() got an unexpected keyword argument 'args'
+root - INFO - ghbdtn
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - error in bootstrap phase; try=0 max_retries=0
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 360, in _make_request
+    self._validate_conn(conn)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 857, in _validate_conn
+    super(HTTPSConnectionPool, self)._validate_conn(conn)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 289, in _validate_conn
+    conn.connect()
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 326, in connect
+    ssl_context=context)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\ssl_.py", line 324, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Python34\lib\ssl.py", line 362, in wrap_socket
+    _context=self)
+  File "C:\Python34\lib\ssl.py", line 580, in __init__
+    self.do_handshake()
+  File "C:\Python34\lib\ssl.py", line 807, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 190, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 70, in request
+    **urlopen_kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 647, in urlopen
+    raise SSLError(e)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.SSLError: EOF occurred in violation of protocol (_ssl.c:600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\updater.py", line 387, in _bootstrap
+    url=webhook_url, certificate=cert, allowed_updates=allowed_updates)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 57, in decorator
+    result = func(self, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 1765, in set_webhook
+    result = self._request.post(url_, data, timeout=timeout)
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 272, in post
+    **urlopen_kwargs)
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 196, in _request_wrapper
+    raise NetworkError('urllib3 HTTPError {0}'.format(error))
+telegram.error.NetworkError: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - unhandled exception
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 360, in _make_request
+    self._validate_conn(conn)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 857, in _validate_conn
+    super(HTTPSConnectionPool, self)._validate_conn(conn)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 289, in _validate_conn
+    conn.connect()
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 326, in connect
+    ssl_context=context)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\ssl_.py", line 324, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Python34\lib\ssl.py", line 362, in wrap_socket
+    _context=self)
+  File "C:\Python34\lib\ssl.py", line 580, in __init__
+    self.do_handshake()
+  File "C:\Python34\lib\ssl.py", line 807, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 190, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 70, in request
+    **urlopen_kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 647, in urlopen
+    raise SSLError(e)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.SSLError: EOF occurred in violation of protocol (_ssl.c:600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\updater.py", line 149, in _thread_wrapper
+    target(*args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\ext\updater.py", line 275, in _start_polling
+    self._bootstrap(bootstrap_retries, clean=clean, webhook_url='', allowed_updates=None)
+  File "C:\Python34\lib\site-packages\telegram\ext\updater.py", line 387, in _bootstrap
+    url=webhook_url, certificate=cert, allowed_updates=allowed_updates)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 57, in decorator
+    result = func(self, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 1765, in set_webhook
+    result = self._request.post(url_, data, timeout=timeout)
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 272, in post
+    **urlopen_kwargs)
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 196, in _request_wrapper
+    raise NetworkError('urllib3 HTTPError {0}'.format(error))
+telegram.error.NetworkError: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.dispatcher - CRITICAL - stopping due to exception in another thread
+telegram.ext.updater - ERROR - error in bootstrap phase; try=0 max_retries=0
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 360, in _make_request
+    self._validate_conn(conn)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 857, in _validate_conn
+    super(HTTPSConnectionPool, self)._validate_conn(conn)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 289, in _validate_conn
+    conn.connect()
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 326, in connect
+    ssl_context=context)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\ssl_.py", line 324, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Python34\lib\ssl.py", line 362, in wrap_socket
+    _context=self)
+  File "C:\Python34\lib\ssl.py", line 580, in __init__
+    self.do_handshake()
+  File "C:\Python34\lib\ssl.py", line 807, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 190, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 70, in request
+    **urlopen_kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 647, in urlopen
+    raise SSLError(e)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.SSLError: EOF occurred in violation of protocol (_ssl.c:600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\updater.py", line 387, in _bootstrap
+    url=webhook_url, certificate=cert, allowed_updates=allowed_updates)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 57, in decorator
+    result = func(self, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 1765, in set_webhook
+    result = self._request.post(url_, data, timeout=timeout)
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 272, in post
+    **urlopen_kwargs)
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 196, in _request_wrapper
+    raise NetworkError('urllib3 HTTPError {0}'.format(error))
+telegram.error.NetworkError: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.updater - ERROR - unhandled exception
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 360, in _make_request
+    self._validate_conn(conn)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 857, in _validate_conn
+    super(HTTPSConnectionPool, self)._validate_conn(conn)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 289, in _validate_conn
+    conn.connect()
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connection.py", line 326, in connect
+    ssl_context=context)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\util\ssl_.py", line 324, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "C:\Python34\lib\ssl.py", line 362, in wrap_socket
+    _context=self)
+  File "C:\Python34\lib\ssl.py", line 580, in __init__
+    self.do_handshake()
+  File "C:\Python34\lib\ssl.py", line 807, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 190, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 70, in request
+    **urlopen_kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Python34\lib\site-packages\telegram\vendor\ptb_urllib3\urllib3\connectionpool.py", line 647, in urlopen
+    raise SSLError(e)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.SSLError: EOF occurred in violation of protocol (_ssl.c:600)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\updater.py", line 149, in _thread_wrapper
+    target(*args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\ext\updater.py", line 275, in _start_polling
+    self._bootstrap(bootstrap_retries, clean=clean, webhook_url='', allowed_updates=None)
+  File "C:\Python34\lib\site-packages\telegram\ext\updater.py", line 387, in _bootstrap
+    url=webhook_url, certificate=cert, allowed_updates=allowed_updates)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 57, in decorator
+    result = func(self, *args, **kwargs)
+  File "C:\Python34\lib\site-packages\telegram\bot.py", line 1765, in set_webhook
+    result = self._request.post(url_, data, timeout=timeout)
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 272, in post
+    **urlopen_kwargs)
+  File "C:\Python34\lib\site-packages\telegram\utils\request.py", line 196, in _request_wrapper
+    raise NetworkError('urllib3 HTTPError {0}'.format(error))
+telegram.error.NetworkError: urllib3 HTTPError EOF occurred in violation of protocol (_ssl.c:600)
+telegram.ext.dispatcher - CRITICAL - stopping due to exception in another thread
+root - INFO - def wordcount(bot,update):
+    word = input()
+    word_summ = len(word.split(' '))
+    logging.info(word_summ)
+    update.message.reply_text(word_summ)
+root - INFO - dfgf
+root - INFO - dfgh
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: wordcount() got an unexpected keyword argument 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: wordcount() got an unexpected keyword argument 'args'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: wordcount() got an unexpected keyword argument 'args'
+root - INFO - 1
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 59, in wordcount
+    word = args[0]
+IndexError: list index out of range
+root - INFO - 1
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - 4
+root - INFO - 4
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 71, in wordcount
+    raise e
+  File "bot.py", line 66, in wordcount
+    update.message.reply_text(word_summ + " cлова")
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+root - INFO - 4
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 71, in wordcount
+    raise e
+  File "bot.py", line 66, in wordcount
+    update.message.reply_text(word_summ + " cлова")
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+root - INFO - dfdfd
+root - INFO - dfg
+root - INFO - 3
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 67, in wordcount
+    update.message.reply_text(word_summ + " cлова")
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+root - INFO - 0
+root - INFO - 3
+root - INFO - 0
+root - INFO - 3
+root - INFO - 0
+root - INFO - 0
+root - INFO - 0
+root - INFO - 0
+root - INFO - 0
+root - INFO - 0
+root - INFO - "Привет как дела"
+root - INFO - 3
+root - INFO - 0
+root - INFO - 3
